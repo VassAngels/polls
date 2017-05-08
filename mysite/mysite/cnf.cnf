@@ -1,0 +1,7 @@
+# my.cnf
+[client]
+host = uk4.siteground.eu
+database = feelipo3_polls
+user = feelipo3_polls
+#password = polls17!
+#default-character-set = utf8
